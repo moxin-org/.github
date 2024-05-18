@@ -1,6 +1,6 @@
 # Moxin
 
-![Moxin Banner](images/moxin-banner-blue.jpg "Moxin Banner")
+![Moxin Banner](/.github/profile/images/moxin-banner-blue.jpg "Moxin Banner")
 
 The Moxin organization is an open community for discovery and exploration of AI LLMs. It is a welcoming, public space to gather and discover projects and resources related to LLMs, Agents, and other AI related topics.
 
