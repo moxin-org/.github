@@ -7,7 +7,8 @@ The Moxin organization is an open community for discovery and exploration of AI 
 ## Presentation
 
 Moxin App: A Pure Rust Explorer for Open Source LLMs ([GOSIM Europe 2024](https://europe2024.gosim.org/schedule#ai))
-* Videos: *coming soon!*
+
+* Videos: [Youtube Video](https://www.youtube.com/watch?v=pwbL7IERPz4)
 * Slides:
     [PDF version (3MB)](https://github.com/gosimfoundation/europe2024/blob/main/presentations/ai-agents/Jorge_Bejar-GOSIM%202024-Moxin.pdf)
 
