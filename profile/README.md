@@ -4,9 +4,15 @@
 
 The Moxin organization is an open community for discovery and exploration of AI LLMs. It is a welcoming, public space to gather and discover projects and resources related to LLMs, Agents, and other AI related topics.
 
+These are projects we're working on:
+
+* [Moxin](https://github.com/moxin-org/Moxin-LLM) is a family of fully open-source and reproducible LLMs
+* [Moly](https://github.com/moxin-org/moly) is a cross-platform AI model chat application which works with local as well as cloud models, built in Rust using the [Makepad](https://github.com/makepad) Framework and [Project Robius](https://github.com/project-robius) platform tools.
+* [MoFA](https://github.com/moxin-org/mofa) is a software framework for building AI agents through a composition-based approach. Using MoFA, AI agents can be constructed via templates and combined in layers to form more powerful Super Agents.
+
 ## Presentation
 
-Moxin App: A Pure Rust Explorer for Open Source LLMs ([GOSIM Europe 2024](https://europe2024.gosim.org/schedule#ai))
+[Moly](https://github.com/moxin-org/moly) App: (previously called Moxin) A Pure Rust Explorer for Open Source LLMs ([GOSIM Europe 2024](https://europe2024.gosim.org/schedule#ai))
 
 * Videos: [Youtube Video](https://www.youtube.com/watch?v=pwbL7IERPz4)
 * Slides:
@@ -14,8 +20,8 @@ Moxin App: A Pure Rust Explorer for Open Source LLMs ([GOSIM Europe 2024](https:
 
 ## Project
 
-Moxin: a local explorer for open-source LLMs:
-[https://github.com/moxin-org/moxin](https://github.com/moxin-org/moxin)
+[Moly](https://github.com/moxin-org/moly) : local + cloud AI model explorer and chat for open-source LLMs:
+[https://github.com/moxin-org/moly](https://github.com/moxin-org/moly)
 
 * Currently under active development, and looking for help!
 * Allow exploration of latest large language models
