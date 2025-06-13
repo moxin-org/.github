@@ -12,8 +12,8 @@ The Moxin Organization is an open community for discovery and exploration of AI 
 * [MoFA](https://github.com/moxin-org/mofa) - a software framework for building AI agents through a composition-based approach. Using MoFA, AI agents can be constructed via templates and combined in layers to form more powerful Super Agents.
 
 ## Presentations
-[Moxin LLM](https://github.com/moxin-org/moly): 
-* [GOSIM AI Paris 2025](https://paris2025.gosim.org): Towards Fully Open-Source LLM from Pre-training to Reinforcement Learning [[Youtube]](https://www.youtube.com/watch?v=G5AGsGTYkZA)
+[Moxin LLM](https://github.com/moxin-org/Moxin-LLM): 
+* [GOSIM AI Paris 2025](https://paris2025.gosim.org/schedule-day-2/): Towards Fully Open-Source LLM from Pre-training to Reinforcement Learning [[Youtube]](https://www.youtube.com/watch?v=G5AGsGTYkZA)
 
 
 [Moly](https://github.com/moxin-org/moly) (previously named Moxin): 
