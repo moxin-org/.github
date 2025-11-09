@@ -2,12 +2,13 @@
 
 <img src="images/moxin-banner-blue.jpg" alt="Moxin Banner" />
 
-The Moxin Organization is an open community for discovery and exploration of AI LLMs. It is a welcoming, public space to gather and discover projects and resources related to LLMs, Agents, and other AI related topics.
+The Moxin Organization is an open community for discovery and exploration of AI tools. It is a welcoming, public space to gather and discover projects and resources related to LLMs, Agents, and other AI related topics.
 
 ## Projects
 
-* [Moxin LLM](https://github.com/moxin-org/Moxin-LLM) - a family of high-performance, truly open, and fully reproducible LLMs that excels in zero-shot tasks and efficient operation on edge devices.
-* [Moxin VLM](https://github.com/moxin-org/Moxin-VLM) - built upon the Moxin-LLM backbone, a VLM designed for advanced vision-language understanding and interaction.
+* [Moxin AI](https://moxin-ai.org/) - a complete, open-source, and fully reproducible language ecosystem, including foundational models, agent frameworks, and edge-optimized engines.
+  * [Moxin LLM](https://github.com/moxin-org/Moxin-LLM) - a high-performance language model family specifically noted for its state-of-the-art results in zero-shot tasks and complex reasoning benchmarks
+  * [Moxin VLM](https://github.com/moxin-org/Moxin-VLM) - built upon the Moxin-LLM backbone, a VLM designed for advanced vision-language understanding and interaction.
 * [Moly](https://github.com/moxin-org/moly) - a cross-platform AI model chat application which works with local & cloud models, built in Rust using [Makepad](https://github.com/makepad) Framework and [Project Robius](https://github.com/project-robius) platform tools.
 * [MoFA](https://github.com/moxin-org/mofa) - a software framework for building AI agents through a composition-based approach. Using MoFA, AI agents can be constructed via templates and combined in layers to form more powerful Super Agents.
 
